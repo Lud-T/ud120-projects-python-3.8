@@ -1,0 +1,17 @@
+*.pyc
+*.tgz
+*.gz
+*.csv
+*.bak
+
+maildir/
+images/
+
+text_learning/your_word_data.pkl
+text_learning/your_email_authors.pkl
+my_classifier.pkl
+my_dataset.pkl
+my_feature_list.pkl
+
+.DS_Store
+Enron_01
