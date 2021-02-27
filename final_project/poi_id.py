@@ -95,6 +95,27 @@ print("----------")
 print("  ")
 print("  ")
 
+### rows number
+print("----------")
+print("  ")
+print(("Numbers of rows : ", len(data_dict)))
+print("  ")
+print("  ")
+print(('Ratio POI/nonPOI : ', count/len(data_dict)*100))
+print("  ")
+print("----------")
+print("  ")
+
+print("  ")
+print("----------")
+print("  ")
+print("  ")
+print("Person example")
+print("  ")
+pp.pprint(data_dict['METTS MARK'])
+print("  ")
+print("----------")
+print("  ")
 
 ###NaN check
 print("Value/Nan check : ")
